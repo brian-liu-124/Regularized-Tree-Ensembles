@@ -1,2 +1,2 @@
-# Regularized-Tree-Ensembles
-Experiment on Regularized Tree Ensembles
+# Sparse-Tree-Ensembles
+Implementation and experiments for feature sparse tree ensembles along.

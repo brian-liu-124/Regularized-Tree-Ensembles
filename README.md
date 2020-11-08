@@ -1,2 +1,2 @@
-# Sparse-Tree-Ensembles
-Implementation and experiments for feature sparse tree ensembles along.
+# Sparse-Tree-Ensemble
+Implementation and experiments for feature sparse tree ensembles.
